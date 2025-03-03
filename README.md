@@ -1,6 +1,5 @@
 ## Hi there 👋 My name is Egor
 
-<!--
 
 Here are some info about me:
 - 🔭 I’m currently working on Web-programming
@@ -11,4 +10,4 @@ Here are some info about me:
 - 📫 How to reach me: uitro355@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
